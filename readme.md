@@ -8,9 +8,8 @@ The original implementation is available at:
 https://github.com/13274086/DeepSC
 
 This code extends the original framework with:
-- latent space disentanglement,
-- SNR-aware gating mechanisms,
-- semantic shortcut connections.
+- latent space disentanglement
+- SNR-aware gating mechanisms
   
 # Deep Learning Enabled Semantic Communication Systems
 
