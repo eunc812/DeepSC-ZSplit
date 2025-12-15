@@ -1,3 +1,17 @@
+## Acknowledgement
+
+This repository is based on the original DeepSC implementation by
+H. Xie et al., "Deep Learning Enabled Semantic Communication Systems",
+IEEE Transactions on Signal Processing, 2021.
+
+The original implementation is available at:
+https://github.com/xxxx/DeepSC
+
+This code extends the original framework with:
+- latent space disentanglement,
+- SNR-aware gating mechanisms,
+- semantic shortcut connections.
+  
 # Deep Learning Enabled Semantic Communication Systems
 
 <center>Huiqiang Xie, Zhijin Qin, Geoffrey Ye Li, and Biing-Hwang Juang </center>
