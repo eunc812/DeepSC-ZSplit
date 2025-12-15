@@ -6,11 +6,12 @@ IEEE Transactions on Signal Processing, 2021.
 
 The original implementation is available at:
 https://github.com/13274086/DeepSC
+main.py, utils.py, transceiver.py updated  
 
 This code extends the original framework with:
 - latent space disentanglement
 - SNR-aware gating mechanisms
-  
+
 # Deep Learning Enabled Semantic Communication Systems
 
 <center>Huiqiang Xie, Zhijin Qin, Geoffrey Ye Li, and Biing-Hwang Juang </center>
