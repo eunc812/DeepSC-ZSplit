@@ -47,7 +47,8 @@ python train.py
 ### Notes
 + Please carefully set the $\lambda$ of mutual information part since I have tested the model in different platform, 
 i.e., Tensorflow and Pytorch, same $\lambda$ shows different performance.
-+ I changed this part from main.py -> train.py (my own code) 
++ I changed this part from main.py -> train.py (my own code)
++ ex) python train.py --arch zsplit_sem --epochs 80 --channel Rician --checkpoint-path checkpoints/{arch}_80epoch ...
 
 ## Evaluation
 ```shell
@@ -56,3 +57,4 @@ python eval.py
 ### Notes
 + If you want to compute the sentence similarity, please download the bert model.
 + I changed this part from perfomance.py -> eval.py (my own code)
++ BERT and sentence similarity, grap drawing, you can change your model check point directions inside eval.py
