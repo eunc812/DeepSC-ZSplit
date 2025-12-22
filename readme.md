@@ -11,7 +11,7 @@ main.py, utils.py, transceiver.py updated
 train.py, eval.py added
 
 This code extends the original framework with:
-- latent space decomposition
+- representation space decomposition
 - SNR-input gating mechanisms
 
 # Deep Learning Enabled Semantic Communication Systems
