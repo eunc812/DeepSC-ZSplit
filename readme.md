@@ -7,8 +7,8 @@ IEEE Transactions on Signal Processing, 2021.
 The original implementation is available at:
 https://github.com/13274086/DeepSC
 
-main.py, utils.py, transceiver.py updated  
-train.py, eval.py added
++main.py, utils.py, transceiver.py updated  
++train.py, eval.py added
 
 This code extends the original framework with:
 - representation space decomposition
