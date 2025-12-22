@@ -57,4 +57,4 @@ python eval.py
 ### Notes
 + If you want to compute the sentence similarity, please download the bert model.
 + I changed this part from perfomance.py -> eval.py (my own code)
-+ BERT and sentence similarity, grap drawing, you can change your model check point directions inside eval.py
++ BERT and sentence similarity, graph drawing, you can change your model check point directions inside eval.py
